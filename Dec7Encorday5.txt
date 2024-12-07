@@ -475,7 +475,7 @@ router ospf 10
 
 Task 1. Enable Flexible NetFlow on R1 E0/0 [gi 2] in both directions using the pre-configured flow monitor.
 
-On R1:
+On R1&R2:
 
 config t
 !interface e0/0
